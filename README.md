@@ -1,9 +1,9 @@
 # Leetcode
 Self-record the leetcode questions I did.
 
-- [ ] 0001.Two_Sum
-- [ ] 0009.Palindrome_Number
-- [ ] 0013.Roman_to_Integer
+- [x] 0001.Two_Sum
+- [x] 0009.Palindrome_Number
+- [x] 0013.Roman_to_Integer
 - [ ] 0021.Merge_Two_Sorted_Lists
 - [ ] 0035.Search_Insert_Position
 - [ ] 0053.Maximum_Subarray
@@ -35,16 +35,16 @@ Self-record the leetcode questions I did.
 - [ ] 0876.Middle_of_the_Linked_List
 - [ ] 0976.Largest_Perimeter_Triangle
 - [ ] 0977.Squares_of_a_Sorted_Array
-- [ ] 1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer
+- [x] 1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer
 - [ ] 1342.Number_of_Steps_to_Reduce_a_Number_to_Zero
 - [ ] 1480.Running_Sum_of_1d_Array
-- [ ] 1491.Average_Salary_Excluding_the_Minimum_and_Maximum_Salary
-- [ ] 1502.Can_Make_Arithmetic_Progression_From_Sequence
+- [x] 1491.Average_Salary_Excluding_the_Minimum_and_Maximum_Salary
+- [x] 1502.Can_Make_Arithmetic_Progression_From_Sequence
 - [ ] 1523.Count_Odd_Numbers_in_an_Interval_Range
 - [ ] 1672.Richest_Customer_Wealth
-- [ ] 1779.Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate
+- [x] 1779.Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate
 - [ ] 1790.Check_if_One_String_Swap_Can_Make_Strings_Equal
-- [ ] 1822.Sign_of_the_Product_of_an_Array
+- [x] 1822.Sign_of_the_Product_of_an_Array
 - [ ] 1920.Build_Array_from_Permutation
 - [ ] 2235.Add_Two_Integers
 - [ ] 2236.Root_Equals_Sum_of_Children
